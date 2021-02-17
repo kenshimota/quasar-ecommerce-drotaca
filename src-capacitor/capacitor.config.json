@@ -1,0 +1,7 @@
+{
+  "appId": "org.drotaca.com",
+  "appName": "drotaca",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
